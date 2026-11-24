@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="A yellow folder with an undo arrow" width="96" height="96">
 </p>
 
-# Downloads File Sorter
+# File Sorter
 
 Give loose Windows downloads a home by file type. Double-click **Sort.bat** to organize them. Double-click **Undo.bat** to put them back, even after several sorting runs.
 
